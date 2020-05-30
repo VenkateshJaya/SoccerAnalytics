@@ -21,3 +21,4 @@ Here is the pass map of Lionel Messi from this match.
 ![Passes](passes-1.jpg)
 
 The positions Messi takes up in this game is quite incredible. He has a few passes from inside his own half and also covered most of the opposition's half too. Some quality playmaking there.
+The passes going out of the pitch are deflections off Messi/passes missed by Messi that went out.
