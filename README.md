@@ -1,6 +1,6 @@
 # An attempt at understanding Soccer Analytics
 
-This repo aims at understanding some of the mathematical / player evaluation models and attempts to implement them. 
+This repo aims at understanding some of the mathematical / player evaluation models used in soccer and attempts to implement them. 
 
 My initial implementation will be on Real Betis vs FC Barcelona in 2018 at the Benito Villamarin
 
