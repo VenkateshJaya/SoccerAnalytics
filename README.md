@@ -2,7 +2,7 @@
 
 This repo aims at understanding some of the mathematical / player evaluation models and attempts to implement them. 
 
-My initial implementation will be on Real Betis vs Barcelona in 2018 which Barcelona won 4-1.
+My initial implementation will be on Real Betis vs FC Barcelona in 2018 at the Benito Villamarin
 
 ## Data
 
